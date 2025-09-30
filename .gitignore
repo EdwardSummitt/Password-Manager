@@ -1,0 +1,7 @@
+# Sensitive files
+passwords.json
+key.key
+
+# Python cache
+__pycache__/
+*.pyc
